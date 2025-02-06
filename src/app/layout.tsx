@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Matt's Website",
   description: 'Technology enthusiast and Linux lover',
 }
-
+<a rel="me" href="https://mastodon.v0dev.cfd/@matt">Mastodon</a>
 export default function RootLayout({
   children,
 }: {
